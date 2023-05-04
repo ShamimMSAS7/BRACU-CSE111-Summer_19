@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Tester{
+  public static void main(String[]args){
+    Scanner sc=new Scanner(System.in);
+    
+  Circle c=new Circle(sc.nextInt());
+  Sphere s=new Sphere(sc.nextInt());
+  System.out.println(c.space());
+  System.out.println(s.space());
+  }
+}

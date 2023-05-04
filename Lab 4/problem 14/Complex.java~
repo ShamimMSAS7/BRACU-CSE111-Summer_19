@@ -1,0 +1,17 @@
+public class Complex{
+  private double realPart;
+  private double imaginaryPart;
+  public Complex(){
+    realPart=0;
+    imaginaryPart=0;
+  }
+  public Complex(double realPart, double imaginaryPart){
+    this.realPart=realPart;
+    this.imaginaryPart=imaginaryPart;
+  }
+  public Complex add( Complex otherNumber){
+    Complex d;
+    d.realPart=this.realPart+otherNumber.realPart;
+    d.imaginaryPart=this.imaginaryPart+otherNumber.imaginaryPart;
+  }
+}

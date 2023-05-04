@@ -1,0 +1,5 @@
+public abstract class Instrument{
+  void play();
+  void adjust();
+  void pose();
+}

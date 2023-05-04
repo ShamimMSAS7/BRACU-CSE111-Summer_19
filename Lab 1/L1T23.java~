@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class L1T23{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    System.out.println("Enter the number");
+    int num=msas.nextInt();
+    for(int i=1; i<=num; i++){
+      for(int j=1; j<=num; j++){
+        if(i==num||j==(num-i+1)||j==num)
+          System.out.print("*");
+        else
+          System.out.print(" ");
+      }System.out.println();
+    }
+  }
+}

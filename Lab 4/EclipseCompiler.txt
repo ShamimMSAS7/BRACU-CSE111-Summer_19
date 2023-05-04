@@ -1,0 +1,841 @@
+19 Jun 2019 15:35:59 GMT: Log 'EclipseCompiler.txt' opened: 19 Jun 2019 15:35:59 GMT with name D:\MSAS\CSE111\Labs\Lab 4\EclipseCompiler.txt
+19 Jun 2019 15:41:00 GMT: diagnostics = javax.tools.DiagnosticCollector@3f512f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10af3d7
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 15:41:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cbb04' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 15:41:10 GMT: Compiler call returned
+19 Jun 2019 15:41:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@924cfa
+19 Jun 2019 15:41:10 GMT:  Kind = ERROR
+19 Jun 2019 15:41:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 81 ColNo = 16 Msg = 'thi cannot be resolved to a variable'
+19 Jun 2019 15:41:19 GMT: diagnostics = javax.tools.DiagnosticCollector@136f8bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@923f41
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 15:41:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cea331' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 15:41:20 GMT: Compiler call returned
+19 Jun 2019 15:41:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c784ea
+19 Jun 2019 15:41:20 GMT:  Kind = WARNING
+19 Jun 2019 15:41:20 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 81 ColNo = 12 Msg = 'The value of the local variable cap is not used'
+19 Jun 2019 15:41:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1691247
+19 Jun 2019 15:41:20 GMT:  Kind = WARNING
+19 Jun 2019 15:41:20 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 81 ColNo = 25 Msg = 'The value of the local variable sm is not used'
+19 Jun 2019 15:57:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1fbba63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@abb4d7
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 15:57:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@20cea7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 15:57:16 GMT: Compiler call returned
+19 Jun 2019 15:58:56 GMT: diagnostics = javax.tools.DiagnosticCollector@1d2749a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18ea5c3
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 15:58:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c3f3af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 15:58:56 GMT: Compiler call returned
+19 Jun 2019 15:58:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f63f50
+19 Jun 2019 15:58:56 GMT:  Kind = ERROR
+19 Jun 2019 15:58:56 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 119 ColNo = 9 Msg = 'Type mismatch: cannot convert from java.lang.String to BoroInt'
+19 Jun 2019 15:59:21 GMT: diagnostics = javax.tools.DiagnosticCollector@e07394
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14a873
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 15:59:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61244c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 15:59:22 GMT: Compiler call returned
+19 Jun 2019 16:01:42 GMT: diagnostics = javax.tools.DiagnosticCollector@6ced6e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@175e51
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:01:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cfda66' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:01:43 GMT: Compiler call returned
+19 Jun 2019 16:04:32 GMT: diagnostics = javax.tools.DiagnosticCollector@17da6d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@549f84
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:04:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1abd702' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:04:33 GMT: Compiler call returned
+19 Jun 2019 16:06:09 GMT: diagnostics = javax.tools.DiagnosticCollector@1fabd34
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d4d688
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:06:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1205dcc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:06:09 GMT: Compiler call returned
+19 Jun 2019 16:08:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1cb7c64
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ef65
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:08:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1759f1f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:08:24 GMT: Compiler call returned
+19 Jun 2019 16:08:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ea596b
+19 Jun 2019 16:08:24 GMT:  Kind = ERROR
+19 Jun 2019 16:08:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java LineNo = 9 ColNo = 29 Msg = 'cap cannot be resolved or is not a field'
+19 Jun 2019 16:08:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1748d22
+19 Jun 2019 16:08:24 GMT:  Kind = ERROR
+19 Jun 2019 16:08:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java LineNo = 10 ColNo = 29 Msg = 'sm cannot be resolved or is not a field'
+19 Jun 2019 16:09:16 GMT: diagnostics = javax.tools.DiagnosticCollector@d9814a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@248ae1
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:09:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9cff5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:09:17 GMT: Compiler call returned
+19 Jun 2019 16:10:12 GMT: diagnostics = javax.tools.DiagnosticCollector@12a3daa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@173250e
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:10:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@98abe5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:10:13 GMT: Compiler call returned
+19 Jun 2019 16:10:50 GMT: diagnostics = javax.tools.DiagnosticCollector@7a5802
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4fe938
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:10:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2edd9c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:10:51 GMT: Compiler call returned
+19 Jun 2019 16:11:34 GMT: diagnostics = javax.tools.DiagnosticCollector@f0ddfe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9e1af2
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:11:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@135d3b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:11:34 GMT: Compiler call returned
+19 Jun 2019 16:20:14 GMT: diagnostics = javax.tools.DiagnosticCollector@200663
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2ea9e
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:20:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1217db1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;D:\MSAS\CSE111\Labs\Lab 3;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:20:15 GMT: Compiler call returned
+19 Jun 2019 16:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a5316
+19 Jun 2019 16:20:15 GMT:  Kind = WARNING
+19 Jun 2019 16:20:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c7d795
+19 Jun 2019 16:20:15 GMT:  Kind = WARNING
+19 Jun 2019 16:20:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122c19
+19 Jun 2019 16:20:15 GMT:  Kind = WARNING
+19 Jun 2019 16:20:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:20:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cd8be
+19 Jun 2019 16:20:15 GMT:  Kind = WARNING
+19 Jun 2019 16:20:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:20:39 GMT: diagnostics = javax.tools.DiagnosticCollector@14b0c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1281dd2
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java]
+19 Jun 2019 16:20:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c45ef0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;D:\MSAS\CSE111\Labs\Lab 3;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:20:40 GMT: Compiler call returned
+19 Jun 2019 16:20:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@916ab2
+19 Jun 2019 16:20:40 GMT:  Kind = WARNING
+19 Jun 2019 16:20:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:20:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b1dc6
+19 Jun 2019 16:20:40 GMT:  Kind = WARNING
+19 Jun 2019 16:20:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:20:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d9a3cc
+19 Jun 2019 16:20:40 GMT:  Kind = WARNING
+19 Jun 2019 16:20:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:20:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d3e870
+19 Jun 2019 16:20:40 GMT:  Kind = WARNING
+19 Jun 2019 16:20:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:21:07 GMT: diagnostics = javax.tools.DiagnosticCollector@17da0da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b147ac
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java]
+19 Jun 2019 16:21:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1db604c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;D:\MSAS\CSE111\Labs\Lab 3;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:21:08 GMT: Compiler call returned
+19 Jun 2019 16:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f16162
+19 Jun 2019 16:21:08 GMT:  Kind = WARNING
+19 Jun 2019 16:21:08 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176061d
+19 Jun 2019 16:21:08 GMT:  Kind = WARNING
+19 Jun 2019 16:21:08 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@af052
+19 Jun 2019 16:21:08 GMT:  Kind = WARNING
+19 Jun 2019 16:21:08 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@799691
+19 Jun 2019 16:21:08 GMT:  Kind = WARNING
+19 Jun 2019 16:21:08 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:22:16 GMT: diagnostics = javax.tools.DiagnosticCollector@2a1c41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c2a5f9
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:22:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19667b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 4;D:\MSAS\CSE111\Labs\Lab 3;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:22:17 GMT: Compiler call returned
+19 Jun 2019 16:22:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dc7c2
+19 Jun 2019 16:22:17 GMT:  Kind = WARNING
+19 Jun 2019 16:22:17 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:22:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1484cb0
+19 Jun 2019 16:22:17 GMT:  Kind = WARNING
+19 Jun 2019 16:22:17 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:22:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ecb9d4
+19 Jun 2019 16:22:17 GMT:  Kind = WARNING
+19 Jun 2019 16:22:17 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:22:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd3c9f
+19 Jun 2019 16:22:17 GMT:  Kind = WARNING
+19 Jun 2019 16:22:17 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:22:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1f0fdfa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e1be4d
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:22:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18388b1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:22:36 GMT: Compiler call returned
+19 Jun 2019 16:22:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45599
+19 Jun 2019 16:22:36 GMT:  Kind = WARNING
+19 Jun 2019 16:22:36 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:22:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ec7a6
+19 Jun 2019 16:22:36 GMT:  Kind = WARNING
+19 Jun 2019 16:22:36 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:22:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1802ea3
+19 Jun 2019 16:22:36 GMT:  Kind = WARNING
+19 Jun 2019 16:22:36 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:22:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1456c76
+19 Jun 2019 16:22:36 GMT:  Kind = WARNING
+19 Jun 2019 16:22:36 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:48:38 GMT: diagnostics = javax.tools.DiagnosticCollector@6e78e9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7c80fd
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:48:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@181e90' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:48:39 GMT: Compiler call returned
+19 Jun 2019 16:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@188896e
+19 Jun 2019 16:48:39 GMT:  Kind = WARNING
+19 Jun 2019 16:48:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@191170d
+19 Jun 2019 16:48:39 GMT:  Kind = WARNING
+19 Jun 2019 16:48:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd7f60
+19 Jun 2019 16:48:39 GMT:  Kind = WARNING
+19 Jun 2019 16:48:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1919279
+19 Jun 2019 16:48:39 GMT:  Kind = WARNING
+19 Jun 2019 16:48:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15be9c
+19 Jun 2019 16:48:39 GMT:  Kind = ERROR
+19 Jun 2019 16:48:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 135 ColNo = 44 Msg = 'Syntax error on token ")", ; expected after this token'
+19 Jun 2019 16:49:04 GMT: diagnostics = javax.tools.DiagnosticCollector@af9a4d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1feb282
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:49:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10466c9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:49:04 GMT: Compiler call returned
+19 Jun 2019 16:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107f394
+19 Jun 2019 16:49:04 GMT:  Kind = WARNING
+19 Jun 2019 16:49:04 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1309c29
+19 Jun 2019 16:49:04 GMT:  Kind = WARNING
+19 Jun 2019 16:49:04 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13156fd
+19 Jun 2019 16:49:04 GMT:  Kind = WARNING
+19 Jun 2019 16:49:04 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10e7c1f
+19 Jun 2019 16:49:04 GMT:  Kind = WARNING
+19 Jun 2019 16:49:04 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171a279
+19 Jun 2019 16:49:04 GMT:  Kind = ERROR
+19 Jun 2019 16:49:04 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 135 ColNo = 36 Msg = 'The method Pow(int, int) is undefined for the type java.lang.Math'
+19 Jun 2019 16:49:10 GMT: diagnostics = javax.tools.DiagnosticCollector@19c7267
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1615e6d
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:49:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@efcafd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:49:10 GMT: Compiler call returned
+19 Jun 2019 16:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171891c
+19 Jun 2019 16:49:10 GMT:  Kind = WARNING
+19 Jun 2019 16:49:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1d192
+19 Jun 2019 16:49:10 GMT:  Kind = WARNING
+19 Jun 2019 16:49:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1325ebb
+19 Jun 2019 16:49:10 GMT:  Kind = WARNING
+19 Jun 2019 16:49:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@753ba3
+19 Jun 2019 16:49:10 GMT:  Kind = WARNING
+19 Jun 2019 16:49:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d7498
+19 Jun 2019 16:49:10 GMT:  Kind = ERROR
+19 Jun 2019 16:49:10 GMT: Name = D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java LineNo = 128 ColNo = 18 Msg = 'This method must return a result of type BoroInt'
+19 Jun 2019 16:49:39 GMT: diagnostics = javax.tools.DiagnosticCollector@65b824
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72679d
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:49:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e463ed' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:49:40 GMT: Compiler call returned
+19 Jun 2019 16:49:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12900b8
+19 Jun 2019 16:49:40 GMT:  Kind = WARNING
+19 Jun 2019 16:49:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d6922
+19 Jun 2019 16:49:40 GMT:  Kind = WARNING
+19 Jun 2019 16:49:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:49:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@131f182
+19 Jun 2019 16:49:40 GMT:  Kind = WARNING
+19 Jun 2019 16:49:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:49:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec5e53
+19 Jun 2019 16:49:40 GMT:  Kind = WARNING
+19 Jun 2019 16:49:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:50:50 GMT: diagnostics = javax.tools.DiagnosticCollector@44c2e7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11377be
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:50:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@181c013' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:50:50 GMT: Compiler call returned
+19 Jun 2019 16:50:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b2427e
+19 Jun 2019 16:50:50 GMT:  Kind = WARNING
+19 Jun 2019 16:50:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:50:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@111a8d8
+19 Jun 2019 16:50:50 GMT:  Kind = WARNING
+19 Jun 2019 16:50:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:50:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e6ba2
+19 Jun 2019 16:50:50 GMT:  Kind = WARNING
+19 Jun 2019 16:50:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:50:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cc1161
+19 Jun 2019 16:50:50 GMT:  Kind = WARNING
+19 Jun 2019 16:50:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:52:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1696a2a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@171935a
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:52:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d110b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:52:38 GMT: Compiler call returned
+19 Jun 2019 16:52:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e394ac
+19 Jun 2019 16:52:38 GMT:  Kind = WARNING
+19 Jun 2019 16:52:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:52:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d0b152
+19 Jun 2019 16:52:38 GMT:  Kind = WARNING
+19 Jun 2019 16:52:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:52:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@89f37e
+19 Jun 2019 16:52:38 GMT:  Kind = WARNING
+19 Jun 2019 16:52:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:52:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dfce8
+19 Jun 2019 16:52:38 GMT:  Kind = WARNING
+19 Jun 2019 16:52:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:52:59 GMT: diagnostics = javax.tools.DiagnosticCollector@772f49
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f77036
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 16:52:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13175c0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:53:00 GMT: Compiler call returned
+19 Jun 2019 16:53:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@190f4ca
+19 Jun 2019 16:53:00 GMT:  Kind = WARNING
+19 Jun 2019 16:53:00 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:53:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132584e
+19 Jun 2019 16:53:00 GMT:  Kind = WARNING
+19 Jun 2019 16:53:00 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:53:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a876c8
+19 Jun 2019 16:53:00 GMT:  Kind = WARNING
+19 Jun 2019 16:53:00 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:53:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9edea2
+19 Jun 2019 16:53:00 GMT:  Kind = WARNING
+19 Jun 2019 16:53:00 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:55:08 GMT: diagnostics = javax.tools.DiagnosticCollector@6f4834
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9f2184
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:55:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b9c6f6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:55:09 GMT: Compiler call returned
+19 Jun 2019 16:55:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf3046
+19 Jun 2019 16:55:09 GMT:  Kind = WARNING
+19 Jun 2019 16:55:09 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:55:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14a96e5
+19 Jun 2019 16:55:09 GMT:  Kind = WARNING
+19 Jun 2019 16:55:09 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:55:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e6611
+19 Jun 2019 16:55:09 GMT:  Kind = WARNING
+19 Jun 2019 16:55:09 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:55:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1acc407
+19 Jun 2019 16:55:09 GMT:  Kind = WARNING
+19 Jun 2019 16:55:09 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:56:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1756c6c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c22a79
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 16:56:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1aec205' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 16:56:39 GMT: Compiler call returned
+19 Jun 2019 16:56:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@152a60f
+19 Jun 2019 16:56:39 GMT:  Kind = WARNING
+19 Jun 2019 16:56:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:56:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e07646
+19 Jun 2019 16:56:39 GMT:  Kind = WARNING
+19 Jun 2019 16:56:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 16:56:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@640efc
+19 Jun 2019 16:56:39 GMT:  Kind = WARNING
+19 Jun 2019 16:56:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 16:56:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e9b98c
+19 Jun 2019 16:56:39 GMT:  Kind = WARNING
+19 Jun 2019 16:56:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:01:18 GMT: diagnostics = javax.tools.DiagnosticCollector@97bd33
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6e8f65
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:01:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f6ac00' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:01:19 GMT: Compiler call returned
+19 Jun 2019 17:01:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1977603
+19 Jun 2019 17:01:19 GMT:  Kind = WARNING
+19 Jun 2019 17:01:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:01:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14b8ccf
+19 Jun 2019 17:01:19 GMT:  Kind = WARNING
+19 Jun 2019 17:01:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:01:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11fbf66
+19 Jun 2019 17:01:19 GMT:  Kind = WARNING
+19 Jun 2019 17:01:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:01:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cda423
+19 Jun 2019 17:01:19 GMT:  Kind = WARNING
+19 Jun 2019 17:01:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:02:43 GMT: diagnostics = javax.tools.DiagnosticCollector@1b60d2e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ee9e4f
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:02:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e9ef28' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:02:43 GMT: Compiler call returned
+19 Jun 2019 17:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f664e
+19 Jun 2019 17:02:43 GMT:  Kind = WARNING
+19 Jun 2019 17:02:43 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d6b7c7
+19 Jun 2019 17:02:43 GMT:  Kind = WARNING
+19 Jun 2019 17:02:43 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8db71b
+19 Jun 2019 17:02:43 GMT:  Kind = WARNING
+19 Jun 2019 17:02:43 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18ea0a1
+19 Jun 2019 17:02:43 GMT:  Kind = WARNING
+19 Jun 2019 17:02:43 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1aba4bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1229a6
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:05:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1522c00' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:05:11 GMT: Compiler call returned
+19 Jun 2019 17:05:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cfc43
+19 Jun 2019 17:05:11 GMT:  Kind = WARNING
+19 Jun 2019 17:05:11 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d0ed44
+19 Jun 2019 17:05:11 GMT:  Kind = WARNING
+19 Jun 2019 17:05:11 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68a97b
+19 Jun 2019 17:05:11 GMT:  Kind = WARNING
+19 Jun 2019 17:05:11 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8dd070
+19 Jun 2019 17:05:11 GMT:  Kind = WARNING
+19 Jun 2019 17:05:11 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:23 GMT: diagnostics = javax.tools.DiagnosticCollector@3ba44c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@120aa99
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:05:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2301ae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:05:24 GMT: Compiler call returned
+19 Jun 2019 17:05:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@384cce
+19 Jun 2019 17:05:24 GMT:  Kind = WARNING
+19 Jun 2019 17:05:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa96c6
+19 Jun 2019 17:05:24 GMT:  Kind = WARNING
+19 Jun 2019 17:05:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d7ee5a
+19 Jun 2019 17:05:24 GMT:  Kind = WARNING
+19 Jun 2019 17:05:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28a4a4
+19 Jun 2019 17:05:24 GMT:  Kind = WARNING
+19 Jun 2019 17:05:24 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:55 GMT: diagnostics = javax.tools.DiagnosticCollector@184fc69
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cc55e3
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:05:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a677e6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:05:55 GMT: Compiler call returned
+19 Jun 2019 17:05:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1893b3
+19 Jun 2019 17:05:55 GMT:  Kind = WARNING
+19 Jun 2019 17:05:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132e73b
+19 Jun 2019 17:05:55 GMT:  Kind = WARNING
+19 Jun 2019 17:05:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:05:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f1143d
+19 Jun 2019 17:05:55 GMT:  Kind = WARNING
+19 Jun 2019 17:05:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:05:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1be7ebf
+19 Jun 2019 17:05:55 GMT:  Kind = WARNING
+19 Jun 2019 17:05:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:07:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1c6480c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c86a0d
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:07:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d313cf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:07:12 GMT: Compiler call returned
+19 Jun 2019 17:07:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c5aee
+19 Jun 2019 17:07:12 GMT:  Kind = WARNING
+19 Jun 2019 17:07:12 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:07:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9da9b7
+19 Jun 2019 17:07:12 GMT:  Kind = WARNING
+19 Jun 2019 17:07:12 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:07:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@129a5c3
+19 Jun 2019 17:07:12 GMT:  Kind = WARNING
+19 Jun 2019 17:07:12 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:07:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@936023
+19 Jun 2019 17:07:12 GMT:  Kind = WARNING
+19 Jun 2019 17:07:12 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:09:37 GMT: diagnostics = javax.tools.DiagnosticCollector@162ad13
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18f1d97
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:09:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4421c1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:09:38 GMT: Compiler call returned
+19 Jun 2019 17:09:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17d638f
+19 Jun 2019 17:09:38 GMT:  Kind = WARNING
+19 Jun 2019 17:09:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:09:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@167cb72
+19 Jun 2019 17:09:38 GMT:  Kind = WARNING
+19 Jun 2019 17:09:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:09:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b9f185
+19 Jun 2019 17:09:38 GMT:  Kind = WARNING
+19 Jun 2019 17:09:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:09:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe4ea5
+19 Jun 2019 17:09:38 GMT:  Kind = WARNING
+19 Jun 2019 17:09:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:10:49 GMT: diagnostics = javax.tools.DiagnosticCollector@907c37
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1212463
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:10:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@199c0dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:10:50 GMT: Compiler call returned
+19 Jun 2019 17:10:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e68c1b
+19 Jun 2019 17:10:50 GMT:  Kind = WARNING
+19 Jun 2019 17:10:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:10:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a03a5
+19 Jun 2019 17:10:50 GMT:  Kind = WARNING
+19 Jun 2019 17:10:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:10:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@868858
+19 Jun 2019 17:10:50 GMT:  Kind = WARNING
+19 Jun 2019 17:10:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:10:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a07bd6
+19 Jun 2019 17:10:50 GMT:  Kind = WARNING
+19 Jun 2019 17:10:50 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:11:41 GMT: diagnostics = javax.tools.DiagnosticCollector@46ef72
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b63fa
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:11:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e5b325' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:11:42 GMT: Compiler call returned
+19 Jun 2019 17:11:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@92d1a4
+19 Jun 2019 17:11:42 GMT:  Kind = WARNING
+19 Jun 2019 17:11:42 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:11:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fda934
+19 Jun 2019 17:11:42 GMT:  Kind = WARNING
+19 Jun 2019 17:11:42 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:11:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e67aab
+19 Jun 2019 17:11:42 GMT:  Kind = WARNING
+19 Jun 2019 17:11:42 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:11:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@179b036
+19 Jun 2019 17:11:42 GMT:  Kind = WARNING
+19 Jun 2019 17:11:42 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:12:51 GMT: diagnostics = javax.tools.DiagnosticCollector@60d1d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dc9438
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:12:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1305395' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:12:52 GMT: Compiler call returned
+19 Jun 2019 17:12:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd0046
+19 Jun 2019 17:12:52 GMT:  Kind = WARNING
+19 Jun 2019 17:12:52 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:12:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17bdeef
+19 Jun 2019 17:12:52 GMT:  Kind = WARNING
+19 Jun 2019 17:12:52 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:12:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@da57a9
+19 Jun 2019 17:12:52 GMT:  Kind = WARNING
+19 Jun 2019 17:12:52 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:12:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13bc752
+19 Jun 2019 17:12:52 GMT:  Kind = WARNING
+19 Jun 2019 17:12:52 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:13:07 GMT: diagnostics = javax.tools.DiagnosticCollector@157f690
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9a49ae
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:13:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e3e6fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:13:07 GMT: Compiler call returned
+19 Jun 2019 17:13:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10ed0df
+19 Jun 2019 17:13:07 GMT:  Kind = WARNING
+19 Jun 2019 17:13:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:13:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12158d9
+19 Jun 2019 17:13:07 GMT:  Kind = WARNING
+19 Jun 2019 17:13:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:13:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aae60
+19 Jun 2019 17:13:07 GMT:  Kind = WARNING
+19 Jun 2019 17:13:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:13:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1850cfc
+19 Jun 2019 17:13:07 GMT:  Kind = WARNING
+19 Jun 2019 17:13:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:14:34 GMT: diagnostics = javax.tools.DiagnosticCollector@57f541
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19f2486
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:14:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18c0572' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:14:35 GMT: Compiler call returned
+19 Jun 2019 17:14:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c10b26
+19 Jun 2019 17:14:35 GMT:  Kind = WARNING
+19 Jun 2019 17:14:35 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:14:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127f6dd
+19 Jun 2019 17:14:35 GMT:  Kind = WARNING
+19 Jun 2019 17:14:35 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:14:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca5de4
+19 Jun 2019 17:14:35 GMT:  Kind = WARNING
+19 Jun 2019 17:14:35 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:14:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e60a36
+19 Jun 2019 17:14:35 GMT:  Kind = WARNING
+19 Jun 2019 17:14:35 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:15:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1b857b7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3bec74
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:15:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d74f68' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:15:39 GMT: Compiler call returned
+19 Jun 2019 17:15:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ae0afa
+19 Jun 2019 17:15:39 GMT:  Kind = WARNING
+19 Jun 2019 17:15:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:15:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1723097
+19 Jun 2019 17:15:39 GMT:  Kind = WARNING
+19 Jun 2019 17:15:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:15:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24168a
+19 Jun 2019 17:15:39 GMT:  Kind = WARNING
+19 Jun 2019 17:15:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:15:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd24c1
+19 Jun 2019 17:15:39 GMT:  Kind = WARNING
+19 Jun 2019 17:15:39 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:15:56 GMT: diagnostics = javax.tools.DiagnosticCollector@13fdec6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f7f8cc
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:15:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10bdcb5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:15:56 GMT: Compiler call returned
+19 Jun 2019 17:15:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19ab4cc
+19 Jun 2019 17:15:56 GMT:  Kind = WARNING
+19 Jun 2019 17:15:56 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:15:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163ead3
+19 Jun 2019 17:15:56 GMT:  Kind = WARNING
+19 Jun 2019 17:15:56 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:15:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d9345a
+19 Jun 2019 17:15:56 GMT:  Kind = WARNING
+19 Jun 2019 17:15:56 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:15:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e9906
+19 Jun 2019 17:15:56 GMT:  Kind = WARNING
+19 Jun 2019 17:15:56 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:16:07 GMT: diagnostics = javax.tools.DiagnosticCollector@bd1842
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@499354
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:16:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19eb766' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:16:07 GMT: Compiler call returned
+19 Jun 2019 17:16:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b052ed
+19 Jun 2019 17:16:07 GMT:  Kind = WARNING
+19 Jun 2019 17:16:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:16:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b2d1eb
+19 Jun 2019 17:16:07 GMT:  Kind = WARNING
+19 Jun 2019 17:16:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:16:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a76271
+19 Jun 2019 17:16:07 GMT:  Kind = WARNING
+19 Jun 2019 17:16:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:16:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@832dbd
+19 Jun 2019 17:16:07 GMT:  Kind = WARNING
+19 Jun 2019 17:16:07 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:18:53 GMT: diagnostics = javax.tools.DiagnosticCollector@13de56
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d4d07a
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:18:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1981b0a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:18:54 GMT: Compiler call returned
+19 Jun 2019 17:18:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b66128
+19 Jun 2019 17:18:54 GMT:  Kind = WARNING
+19 Jun 2019 17:18:54 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:18:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f7d4f0
+19 Jun 2019 17:18:54 GMT:  Kind = WARNING
+19 Jun 2019 17:18:54 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:18:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f480a1
+19 Jun 2019 17:18:54 GMT:  Kind = WARNING
+19 Jun 2019 17:18:54 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:18:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148d1b5
+19 Jun 2019 17:18:54 GMT:  Kind = WARNING
+19 Jun 2019 17:18:54 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:20:19 GMT: diagnostics = javax.tools.DiagnosticCollector@94d09d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12946d
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:20:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1807121' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:20:19 GMT: Compiler call returned
+19 Jun 2019 17:20:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b9f727
+19 Jun 2019 17:20:19 GMT:  Kind = WARNING
+19 Jun 2019 17:20:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:20:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@100b9fe
+19 Jun 2019 17:20:19 GMT:  Kind = WARNING
+19 Jun 2019 17:20:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:20:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18852e3
+19 Jun 2019 17:20:19 GMT:  Kind = WARNING
+19 Jun 2019 17:20:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:20:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15d8cea
+19 Jun 2019 17:20:19 GMT:  Kind = WARNING
+19 Jun 2019 17:20:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:24:46 GMT: diagnostics = javax.tools.DiagnosticCollector@e10a8d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@171f57e
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:24:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1303a42' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:24:47 GMT: Compiler call returned
+19 Jun 2019 17:24:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@623f76
+19 Jun 2019 17:24:47 GMT:  Kind = WARNING
+19 Jun 2019 17:24:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:24:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60ed5d
+19 Jun 2019 17:24:47 GMT:  Kind = WARNING
+19 Jun 2019 17:24:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:24:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8503ab
+19 Jun 2019 17:24:47 GMT:  Kind = WARNING
+19 Jun 2019 17:24:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:24:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91eb98
+19 Jun 2019 17:24:47 GMT:  Kind = WARNING
+19 Jun 2019 17:24:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:25:50 GMT: diagnostics = javax.tools.DiagnosticCollector@fb7e27
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1327c39
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:25:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@170fca3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:25:51 GMT: Compiler call returned
+19 Jun 2019 17:25:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd2e8a
+19 Jun 2019 17:25:51 GMT:  Kind = WARNING
+19 Jun 2019 17:25:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:25:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e93594
+19 Jun 2019 17:25:51 GMT:  Kind = WARNING
+19 Jun 2019 17:25:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:25:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1039ac8
+19 Jun 2019 17:25:51 GMT:  Kind = WARNING
+19 Jun 2019 17:25:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:25:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f05c2a
+19 Jun 2019 17:25:51 GMT:  Kind = WARNING
+19 Jun 2019 17:25:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:27:18 GMT: diagnostics = javax.tools.DiagnosticCollector@1ae5d85
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@181473
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:27:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d7ee8f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:27:19 GMT: Compiler call returned
+19 Jun 2019 17:27:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@126c172
+19 Jun 2019 17:27:19 GMT:  Kind = WARNING
+19 Jun 2019 17:27:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:27:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13eebec
+19 Jun 2019 17:27:19 GMT:  Kind = WARNING
+19 Jun 2019 17:27:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:27:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1751690
+19 Jun 2019 17:27:19 GMT:  Kind = WARNING
+19 Jun 2019 17:27:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:27:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c64b35
+19 Jun 2019 17:27:19 GMT:  Kind = WARNING
+19 Jun 2019 17:27:19 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:27:50 GMT: diagnostics = javax.tools.DiagnosticCollector@1954c0a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d509a3
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:27:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a1a9ea' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:27:51 GMT: Compiler call returned
+19 Jun 2019 17:27:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bdf224
+19 Jun 2019 17:27:51 GMT:  Kind = WARNING
+19 Jun 2019 17:27:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:27:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bddfa9
+19 Jun 2019 17:27:51 GMT:  Kind = WARNING
+19 Jun 2019 17:27:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:27:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f45566
+19 Jun 2019 17:27:51 GMT:  Kind = WARNING
+19 Jun 2019 17:27:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:27:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e98d3f
+19 Jun 2019 17:27:51 GMT:  Kind = WARNING
+19 Jun 2019 17:27:51 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:28:06 GMT: diagnostics = javax.tools.DiagnosticCollector@15cfaa5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17de759
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:28:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ef0c28' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:28:06 GMT: Compiler call returned
+19 Jun 2019 17:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2d8cb
+19 Jun 2019 17:28:06 GMT:  Kind = WARNING
+19 Jun 2019 17:28:06 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@614636
+19 Jun 2019 17:28:06 GMT:  Kind = WARNING
+19 Jun 2019 17:28:06 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fda450
+19 Jun 2019 17:28:06 GMT:  Kind = WARNING
+19 Jun 2019 17:28:06 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:28:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@138e4fa
+19 Jun 2019 17:28:06 GMT:  Kind = WARNING
+19 Jun 2019 17:28:06 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:28:31 GMT: diagnostics = javax.tools.DiagnosticCollector@12ff020
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@260b77
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:28:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cc296a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:28:32 GMT: Compiler call returned
+19 Jun 2019 17:28:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@144e6c2
+19 Jun 2019 17:28:32 GMT:  Kind = WARNING
+19 Jun 2019 17:28:32 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:28:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1364fe7
+19 Jun 2019 17:28:32 GMT:  Kind = WARNING
+19 Jun 2019 17:28:32 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:28:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@570e92
+19 Jun 2019 17:28:32 GMT:  Kind = WARNING
+19 Jun 2019 17:28:32 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:28:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c6280e
+19 Jun 2019 17:28:32 GMT:  Kind = WARNING
+19 Jun 2019 17:28:32 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:30:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1d6b155
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10bab34
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:30:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b9cf62' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:30:25 GMT: Compiler call returned
+19 Jun 2019 17:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12b6eeb
+19 Jun 2019 17:30:25 GMT:  Kind = WARNING
+19 Jun 2019 17:30:25 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a713e0
+19 Jun 2019 17:30:25 GMT:  Kind = WARNING
+19 Jun 2019 17:30:25 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd7ac1
+19 Jun 2019 17:30:25 GMT:  Kind = WARNING
+19 Jun 2019 17:30:25 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@daa284
+19 Jun 2019 17:30:25 GMT:  Kind = WARNING
+19 Jun 2019 17:30:25 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:00 GMT: diagnostics = javax.tools.DiagnosticCollector@1f567e8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b61d80
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java]
+19 Jun 2019 17:32:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b27dd8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:32:01 GMT: Compiler call returned
+19 Jun 2019 17:32:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e6c397
+19 Jun 2019 17:32:01 GMT:  Kind = WARNING
+19 Jun 2019 17:32:01 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19da67e
+19 Jun 2019 17:32:01 GMT:  Kind = WARNING
+19 Jun 2019 17:32:01 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@199c82a
+19 Jun 2019 17:32:01 GMT:  Kind = WARNING
+19 Jun 2019 17:32:01 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43fe6e
+19 Jun 2019 17:32:01 GMT:  Kind = WARNING
+19 Jun 2019 17:32:01 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:14 GMT: diagnostics = javax.tools.DiagnosticCollector@136226
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a724f7
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:32:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@781d3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:32:15 GMT: Compiler call returned
+19 Jun 2019 17:32:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1def1e0
+19 Jun 2019 17:32:15 GMT:  Kind = WARNING
+19 Jun 2019 17:32:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91998e
+19 Jun 2019 17:32:15 GMT:  Kind = WARNING
+19 Jun 2019 17:32:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4429c4
+19 Jun 2019 17:32:15 GMT:  Kind = WARNING
+19 Jun 2019 17:32:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184df8e
+19 Jun 2019 17:32:15 GMT:  Kind = WARNING
+19 Jun 2019 17:32:15 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:55 GMT: diagnostics = javax.tools.DiagnosticCollector@1e4009d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c03584
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:32:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18b5012' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:32:55 GMT: Compiler call returned
+19 Jun 2019 17:32:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad32d4
+19 Jun 2019 17:32:55 GMT:  Kind = WARNING
+19 Jun 2019 17:32:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ccdfa4
+19 Jun 2019 17:32:55 GMT:  Kind = WARNING
+19 Jun 2019 17:32:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:32:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d35de8
+19 Jun 2019 17:32:55 GMT:  Kind = WARNING
+19 Jun 2019 17:32:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:32:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@152cf62
+19 Jun 2019 17:32:55 GMT:  Kind = WARNING
+19 Jun 2019 17:32:55 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:35:38 GMT: diagnostics = javax.tools.DiagnosticCollector@591603
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b314f4
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:35:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f62ae3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:35:38 GMT: Compiler call returned
+19 Jun 2019 17:35:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8d2d9
+19 Jun 2019 17:35:38 GMT:  Kind = WARNING
+19 Jun 2019 17:35:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:35:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a99d1e
+19 Jun 2019 17:35:38 GMT:  Kind = WARNING
+19 Jun 2019 17:35:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:35:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ab04f9
+19 Jun 2019 17:35:38 GMT:  Kind = WARNING
+19 Jun 2019 17:35:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:35:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97ae1
+19 Jun 2019 17:35:38 GMT:  Kind = WARNING
+19 Jun 2019 17:35:38 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:35:46 GMT: diagnostics = javax.tools.DiagnosticCollector@10cd4e0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@106974a
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:35:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1135157' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:35:47 GMT: Compiler call returned
+19 Jun 2019 17:35:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12c033c
+19 Jun 2019 17:35:47 GMT:  Kind = WARNING
+19 Jun 2019 17:35:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:35:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a7ed73
+19 Jun 2019 17:35:47 GMT:  Kind = WARNING
+19 Jun 2019 17:35:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:35:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18f3926
+19 Jun 2019 17:35:47 GMT:  Kind = WARNING
+19 Jun 2019 17:35:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:35:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d31c
+19 Jun 2019 17:35:47 GMT:  Kind = WARNING
+19 Jun 2019 17:35:47 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:44:39 GMT: diagnostics = javax.tools.DiagnosticCollector@172dca8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f20f6
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java, D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java, D:\MSAS\CSE111\Labs\Lab 4\BoroInt.java, D:\MSAS\CSE111\Labs\Lab 4\BoroIntDemo.java]
+19 Jun 2019 17:44:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1350c87' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 3;D:\MSAS\CSE111\Labs\Lab 4;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+19 Jun 2019 17:44:40 GMT: Compiler call returned
+19 Jun 2019 17:44:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14a97d6
+19 Jun 2019 17:44:40 GMT:  Kind = WARNING
+19 Jun 2019 17:44:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:44:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b43a7b
+19 Jun 2019 17:44:40 GMT:  Kind = WARNING
+19 Jun 2019 17:44:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k2.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'
+19 Jun 2019 17:44:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c315ae
+19 Jun 2019 17:44:40 GMT:  Kind = WARNING
+19 Jun 2019 17:44:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+19 Jun 2019 17:44:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c2bd1
+19 Jun 2019 17:44:40 GMT:  Kind = WARNING
+19 Jun 2019 17:44:40 GMT: Name = D:\MSAS\CSE111\Labs\Lab 3\Lab3Task7k.java LineNo = 4 ColNo = 13 Msg = 'The value of the local variable msas is not used'

@@ -1,0 +1,1 @@
+11 Jul 2019 14:21:41 GMT: Log 'EclipseCompiler.txt' opened: 11 Jul 2019 14:21:41 GMT with name D:\MSAS\CSE111\Labs\Lab 5\task 12\EclipseCompiler.txt

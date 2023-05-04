@@ -1,0 +1,21 @@
+15 Jun 2019 13:36:01 GMT: Log 'EclipseCompiler.txt' opened: 15 Jun 2019 13:36:01 GMT with name D:\MSAS\CSE111\Labs\lab 2v2\EclipseCompiler.txt
+15 Jun 2019 13:44:39 GMT: diagnostics = javax.tools.DiagnosticCollector@16af088
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14a5ecf
+fileObjects = [D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task3.java, D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task4.java, D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task5.java, D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task6.java, D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task7.java]
+15 Jun 2019 13:44:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@abd7b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\lab 2v2;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+15 Jun 2019 13:44:49 GMT: Compiler call returned
+15 Jun 2019 13:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f5cad1
+15 Jun 2019 13:44:49 GMT:  Kind = WARNING
+15 Jun 2019 13:44:49 GMT: Name = D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+15 Jun 2019 13:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a40982
+15 Jun 2019 13:44:49 GMT:  Kind = WARNING
+15 Jun 2019 13:44:49 GMT: Name = D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+15 Jun 2019 13:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3eb45
+15 Jun 2019 13:44:49 GMT:  Kind = WARNING
+15 Jun 2019 13:44:49 GMT: Name = D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task5.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+15 Jun 2019 13:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8a7eb1
+15 Jun 2019 13:44:49 GMT:  Kind = WARNING
+15 Jun 2019 13:44:49 GMT: Name = D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task6.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'
+15 Jun 2019 13:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18f12fe
+15 Jun 2019 13:44:49 GMT:  Kind = WARNING
+15 Jun 2019 13:44:49 GMT: Name = D:\MSAS\CSE111\Labs\lab 2v2\Lab2v2Task7.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'msas' is never closed'

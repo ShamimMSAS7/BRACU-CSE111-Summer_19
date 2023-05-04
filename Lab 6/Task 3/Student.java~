@@ -1,0 +1,22 @@
+public class Student{
+  private String name="Ei name e kono student nai";
+  private String id="Student ei nai, abar id :P";
+  private String address="Naam nai .. thikana ashbe koi theke?";
+  private double cgpa=-4;
+  public String nameDao(){
+    return name;
+  }
+  public String boloToAmiKe(){
+    return id;
+  }
+  public String addressDao(){
+    return address;
+  }
+  public double cgpaDao(){
+    return cgpa;
+  }
+  public void nameBoshao(String n){
+    name=n;
+  }
+  
+}

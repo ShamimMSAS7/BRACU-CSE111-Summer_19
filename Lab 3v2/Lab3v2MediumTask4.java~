@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Lab3v2MediumTask4{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    System.out.println("Enter a word");
+    String word=msas.nextLine();
+    char []array=word.toCharArray();
+    String word2=array[0];
+    for(int i=1; i<array.length; i++){
+      for(int j=i+1; j<array.length; j++){
+        if(array[i]!=array[j])
+          word2+=array[j];
+      }
+    }
+  }
+}

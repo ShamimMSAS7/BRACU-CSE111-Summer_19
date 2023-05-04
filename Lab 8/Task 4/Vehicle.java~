@@ -1,0 +1,7 @@
+public class Vehicle{
+  public static int x;
+  public static int y;
+  public String toString(){
+    return "("+x+", "+y+")";
+  }
+}

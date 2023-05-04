@@ -1,0 +1,6 @@
+25 Jun 2019 15:00:16 GMT: Log 'EclipseCompiler.txt' opened: 25 Jun 2019 15:00:16 GMT with name D:\MSAS\CSE111\Labs\Lab 5\task 9\EclipseCompiler.txt
+25 Jun 2019 15:00:33 GMT: diagnostics = javax.tools.DiagnosticCollector@ea34b7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@165c71a
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 5\task 9\AccountTester.java]
+25 Jun 2019 15:00:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@37c995' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 5\task 9;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+25 Jun 2019 15:00:47 GMT: Compiler call returned

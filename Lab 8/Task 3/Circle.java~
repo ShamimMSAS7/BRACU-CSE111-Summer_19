@@ -1,0 +1,5 @@
+public class Circle extends point{
+  public Circle(int n){
+    super(n);
+  }
+}

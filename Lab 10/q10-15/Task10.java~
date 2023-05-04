@@ -1,0 +1,17 @@
+import java.io.*;
+public class Task10{
+  public staic void main(String[]args){
+    String amarFileNameAndLocation  = "C:\Users\19101532\Desktop\New folder\q10\\a.txt";
+    File amarFile = new File ( amarFileNameAndLocation );
+    Scanner  s =new Scanner (amarFile) ); 
+    String ektaLine;
+ektaLine = s.nextLine();
+int x = Integer.parseInt(ektaLine); 
+
+    int y =Integer.parseInt(ektaLine); 
+    int z = Integer.parseInt(ektaLine); 
+    System.out.println(x+y+z);
+    
+    
+  }
+}

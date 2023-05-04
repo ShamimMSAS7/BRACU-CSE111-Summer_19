@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Lab3Task7c{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    String name="Hello, MSAS";
+    boolean result=name.startsWith("Hei");
+    System.out.println(result);
+ 
+  }
+}

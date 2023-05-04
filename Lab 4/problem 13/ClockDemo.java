@@ -1,0 +1,55 @@
+import java.util.Scanner;
+public class ClockDemo{
+  public static void main(String[]args){
+    Scanner sc=new Scanner(System.in);
+    Clock firstClock=new Clock(34617);
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    firstClock.tick();
+    System.out.println(firstClock.toString());
+    int h=sc.nextInt();
+    int m=sc.nextInt();
+    int s=sc.nextInt();
+    Clock secondClock=new Clock(h,m,s);
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    secondClock.tick();
+    System.out.println(secondClock.toString());
+    firstClock.addClock(secondClock);
+    System.out.println(firstClock.toString());
+    System.out.println(secondClock.toString());
+    Clock thirdClock=firstClock.subtractClock(secondClock);
+  }
+}

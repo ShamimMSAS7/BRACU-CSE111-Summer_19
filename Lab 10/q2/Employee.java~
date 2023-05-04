@@ -1,0 +1,25 @@
+public class Employee extends Person{
+  private double slalry;
+  private int year;
+  Employee(){
+    salary=-0;
+    year=-0;
+  }
+  Employee(double d, int i, String name, String id){
+    
+    super(name,id);
+    salary=d;
+    year=i;
+  }
+  double getSalary(){
+    return salary;
+  }
+  int getYear(){
+    return year;
+  }
+  boolean equals(Employee e){
+    if(name==e.name && NID==e.NID)
+      return true;
+    return false;
+  }
+}

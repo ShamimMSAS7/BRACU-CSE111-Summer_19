@@ -1,0 +1,33 @@
+class Book{
+  private String name;
+  private Author author;
+  private double price;
+  private int qty;
+  Book(String n, Author a, double p, int q){
+    name=n;
+    author=a;
+    price=p;
+    qty=q;
+  }
+  String getName(){
+    return name;
+  }
+  Author getAuthor(){
+    return author;
+  }
+  double getPrice(){
+    return price;
+  }
+  int getQty(){
+    return qty;
+  }
+  void setPrice(double p){
+    price=p;
+  }
+  void setQty(int q){
+    qty=q;
+  }
+  String toString(){
+    return name+" by "+author;
+  }
+}

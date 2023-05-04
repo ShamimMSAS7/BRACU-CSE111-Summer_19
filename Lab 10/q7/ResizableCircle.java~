@@ -1,0 +1,3 @@
+public class ResizableCircle extends Circle implements Resizable{
+
+}

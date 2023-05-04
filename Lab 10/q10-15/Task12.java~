@@ -1,0 +1,18 @@
+import java.io.*;
+import java.util.Scanner;
+public class Task12{
+  public static void main(String[]args) throws Exception{
+    String amarFileNameAndLocation  = "a.txt";
+    File amarFile = new File ( amarFileNameAndLocation );
+    Scanner  s = new Scanner (amarFile); 
+   String line;
+while(s.hasNextLine()){
+     line = s.nextLine();
+     System.out.println( line ); 
+}
+
+}
+
+    
+    
+  }

@@ -1,0 +1,9 @@
+public class Tester8{
+  public static void main(String[]args){
+    Student john=new Student();
+    Student mike=new Student();
+    Student carol=new Student();
+    john.setName(Shamim);
+    System.out.println(john.getName());
+  }
+}

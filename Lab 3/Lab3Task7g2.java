@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Lab3Task7g2{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    String name="Hello, Bye MSAS";
+    int result=name.indexOf('l', 2);
+    //1 means the search will be start from index 1 and then it found l at index 2
+    System.out.println(result);
+    
+  }
+}

@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class Lab2v2Task10{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    int []array;
+    array[1]=6;
+  }
+}

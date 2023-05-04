@@ -1,0 +1,4 @@
+class PaintThings{
+  Paint p=new Paint(8);
+  
+}

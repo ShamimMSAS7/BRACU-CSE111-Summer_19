@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Lab3Task7p{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    char[] name={'H','e','l','l','o',' ','M','S',"A",'S'};
+    double d=00056.89;
+    boolean b=true;
+    long l=2386186;
+    String result1=name.valueOf();
+    String result2=name.valueOf();
+    String result3=name.valueOf();
+    String result4=name.valueOf();
+    System.out.println(result);
+    
+  }
+}

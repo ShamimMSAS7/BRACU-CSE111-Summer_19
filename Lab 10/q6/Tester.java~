@@ -1,0 +1,8 @@
+public class Tester{
+  public static void main(String[]args){
+    MovableCircle c=new MovableCircle(0,0,2,2,5);
+    MovablePoint p=new MovablePoint(6,1,5,3);
+    System.out.println(c);
+    System.out.println(p);
+  }
+}

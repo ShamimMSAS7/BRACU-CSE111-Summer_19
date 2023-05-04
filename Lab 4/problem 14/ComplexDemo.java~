@@ -1,0 +1,15 @@
+public class ComplexDemo{
+  public static void main(String[]args){
+    Complex one=new Complex();
+    Complex two=new Complex(2,3);
+    one.setRealPart(5);
+    one.setImaginaryPart(7);
+    Complex three=one.add(two);
+    Complex four=one.subtract(two);
+    Complex five=one.multiply(two);
+    Complex six=one.divide(two);
+    Complex seven;
+    seven.realPart=one.getRealPart();
+    seven.imaginaryPart=two.getImaginaryPart();
+  }
+}

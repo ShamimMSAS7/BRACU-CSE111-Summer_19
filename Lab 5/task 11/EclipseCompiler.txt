@@ -1,0 +1,21 @@
+25 Jun 2019 15:02:13 GMT: Log 'EclipseCompiler.txt' opened: 25 Jun 2019 15:02:13 GMT with name D:\MSAS\CSE111\Labs\Lab 5\task 11\EclipseCompiler.txt
+25 Jun 2019 15:03:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1559d7b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12c5e0b
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 5\task 11\Dog.java, D:\MSAS\CSE111\Labs\Lab 5\task 11\Quiz.java]
+25 Jun 2019 15:03:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10427f2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 5\task 11;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+25 Jun 2019 15:03:53 GMT: Compiler call returned
+25 Jun 2019 15:06:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1c304b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@182a616
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 5\task 11\Dog.java, D:\MSAS\CSE111\Labs\Lab 5\task 11\Quiz.java, D:\MSAS\CSE111\Labs\Lab 5\task 12\Cat.java]
+25 Jun 2019 15:06:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17c16dd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 5\task 11;D:\MSAS\CSE111\Labs\Lab 5\task 12;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+25 Jun 2019 15:06:48 GMT: Compiler call returned
+25 Jun 2019 15:11:27 GMT: diagnostics = javax.tools.DiagnosticCollector@19b73bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c2e6c2
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 5\task 11\Dog.java, D:\MSAS\CSE111\Labs\Lab 5\task 11\Quiz.java, D:\MSAS\CSE111\Labs\Lab 5\task 12\Cat.java]
+25 Jun 2019 15:11:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cabfd0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 5\task 11;D:\MSAS\CSE111\Labs\Lab 5\task 12;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+25 Jun 2019 15:11:27 GMT: Compiler call returned
+25 Jun 2019 15:12:01 GMT: diagnostics = javax.tools.DiagnosticCollector@2a458d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cf6368
+fileObjects = [D:\MSAS\CSE111\Labs\Lab 5\task 11\Dog.java, D:\MSAS\CSE111\Labs\Lab 5\task 11\Quiz.java, D:\MSAS\CSE111\Labs\Lab 5\task 12\Cat.java, D:\MSAS\CSE111\Labs\Lab 5\task 12\Test.java]
+25 Jun 2019 15:12:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18fb466' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\MSAS\CSE111\Labs\Lab 5\task 11;D:\MSAS\CSE111\Labs\Lab 5\task 12;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+25 Jun 2019 15:12:01 GMT: Compiler call returned

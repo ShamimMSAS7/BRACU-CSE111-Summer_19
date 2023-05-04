@@ -1,0 +1,11 @@
+public class Cylinder extends Shape{
+  public double radius;
+  public double height;
+  Cylinder(double r, double h){
+    radius=r;
+    height=h;
+  }
+  double area(){
+    return Math.PI*radius*radius*height;
+  }
+}

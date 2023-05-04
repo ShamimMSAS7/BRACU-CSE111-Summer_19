@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Lab3Task7b{
+  public static void main(String[]args){
+    Scanner msas=new Scanner(System.in);
+    System.out.println("Enter something");
+    String name1=msas.nextLine();
+    System.out.println("Enter something");
+    String name2=msas.nextLine();
+    int result=name1.compareToIgnoreCase(name2);
+    System.out.println(result);
+ 
+  }
+}

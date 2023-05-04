@@ -1,0 +1,5 @@
+public Cat extends Animal{
+  public Cat(Spring a){
+    super(s);
+  }
+}

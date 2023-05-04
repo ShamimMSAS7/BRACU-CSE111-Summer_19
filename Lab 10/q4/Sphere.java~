@@ -1,0 +1,9 @@
+public class Sphere extends Shape{
+  public double radius;
+  Sphere(double r){
+    radius =r;
+  }
+  double area(){
+    return 4*Math.PI*radius*radius;
+  }
+}

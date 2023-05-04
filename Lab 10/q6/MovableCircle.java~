@@ -1,0 +1,26 @@
+public class MovableCircle implements Movable{
+  public int radius;
+  public MovablePoint point;
+  MovableCircle(int x, int y, int xSpeed, int ySpeed,int radius){
+    point.x=x;
+    point.y=y;
+    point.xSpeed=xSpeed;
+    point.ySpeed=ySpeed;
+    this.radius=radius;
+  }
+  public String toString(){
+    return "amar kendro("+point.x+","+point.y+"). x er speed chilo "+point.xSpeed+". y er speed chilo "+point.ySpeed+". amar radius "+radius;
+  }
+  void moveUp(){
+    point.y=point.y+point.ySpeed;
+  }
+  void moveDown(){
+    point.y=point.y-point.ySpeed;
+  }
+  void moveRight(){
+    point.x=point.x+point.xSpeed;
+  }
+  void moveLeft(){
+    point.x=point.x-point.xSpeed;
+  }
+}
